@@ -1,0 +1,6 @@
+{
+    "watch": ["tasks.mjs"],
+    "ext": "js,json",
+    "exec": "node tasks.mjs"
+  }
+  
